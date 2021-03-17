@@ -1,0 +1,62 @@
+#container {
+	margin:0 auto;
+	width:90%;
+	min-width:1050px;
+	border:1px solid black;
+}
+
+.menu:hover {
+	color:black;
+	font-size:18px;
+	background-color:white;
+}
+.podval {
+	width:100px;
+	height:90px;
+}
+footer {
+	background-color:#3F7575;
+	border:1px solid #3F7575;
+}
+article {
+	background-color:#6CC6C6;
+	border:50px solid #6CC6C6;
+	color:#FFECEC;
+	font-size:16pt;
+}
+nav {
+	background-color:#4FB6CC;
+	border:1px solid #4FB6CC;
+	height:30px;
+	color:#FFECEC;
+}
+.menu {
+		margin:0 140px;
+		float:left;
+		color:#FFECEC;
+		
+}
+img{
+	object-fit:cover;
+	width:50%;
+	height:45%;
+}
+
+header {
+	background-image:url(head.jpg);
+	color:#FFECEC;
+	border:1px solid black;
+	text-align:center;
+
+	
+}
+.gachi {
+	float:right;
+}
+.weewee {
+	float:left;
+	padding:6px;
+}
+.van {
+	padding:6px;
+}

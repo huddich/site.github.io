@@ -1,0 +1,83 @@
+#container {
+	margin:0 auto;
+	width:90%;
+	border:1px solid black;
+	min-width:1050px;
+}
+
+img {
+	width:50%;
+	height:45%;
+}
+.four {
+	height:350px;
+}
+.three {
+	height:350px;
+}
+header {
+	background-image:url(head.jpg);
+	color:#FFECEC;
+	border:1px solid black;
+	text-align:center;
+	
+}
+
+img{
+	object-fit:cover;
+}
+.menu {
+		margin:0 110px;
+		float:left;
+		color:#FFECEC;
+		
+}
+nav {
+	background-color:#4FB6CC;
+	border:1px solid #4FB6CC;
+	height:30px;
+}
+.one {
+	background-color:#6CC6C6;
+}
+.two {
+	background-color:#509898;
+}
+article {
+	background-color:#6CC6C6;
+	border:1px solid #6CC6C6;
+	color:#FFECEC;
+	font-size:16pt;
+	
+	
+}
+footer {
+	background-color:#3F7575;
+	border:1px solid #3F7575;
+}
+
+.george {
+	float:right;
+}
+}
+.vibory {
+	float:left;
+}
+.obeme {
+	float:right;
+}
+.trump {
+	float:left;
+}
+.biden {
+	float:right;
+}
+.podval {
+	width:100px;
+	height:90px;
+}
+.menu:hover {
+	color:black;
+	font-size:18px;
+	background-color:white;
+}
